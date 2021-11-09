@@ -1,0 +1,25 @@
+.container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  border: 1px solid purple;
+}
+.goBack {
+  width: 50px;
+  height: 50px;
+  border: 3px solid purple;
+  line-height: 50px;
+  text-align: center;
+  font-size: 28;
+  color: #333333;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.userToken {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  font-size: 20px;
+  color: red;
+}
